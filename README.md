@@ -37,6 +37,6 @@
 <hr>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar260502&show_icons=true&locale=en&layout=compact" alt="Omkar streak" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar260502&" alt="omkar contri" /></p>
+<p align="center"><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omkar260502&theme=dark&hide_border=true)](https://git.io/streak-stats)" alt="omkar contri" /></p>
 <hr>
 <p align="center"><img align="center" src="https://github.com/omkar260502/omkar260502/blob/output/github-contribution-grid-snake.gif" alt="omkar contri graph" /></p>
