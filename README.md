@@ -39,4 +39,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar260502&" alt="omkar contri" /></p>
 <hr>
-![SnakeAnimation](https://github.com/omkar260502/omkar260502/blob/output/github-contribution-grid-snake.gif)
+<p align="center"><img align="center" src="https://github.com/omkar260502/omkar260502/blob/output/github-contribution-grid-snake.gif" alt="omkar contri graph" /></p>
