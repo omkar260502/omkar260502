@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on .net and Full Stack Development
 
-- 🌱 I’m currently learning Devops(jenkins)
+- 🌱 I’m currently learning Devops
 
 - 💬 Ask me about MERN and ML
 
