@@ -1,6 +1,7 @@
 
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Omkar Taple</h1>
+<img src="https://github.com/omkar260502/omkar260502/blob/main/OMKAR%20TAPLE.png">
 <h3 align="center">A passionate Web developer and Machine Learning Enthusiast from India</h3>
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
