@@ -29,7 +29,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/omkar-taple-a68951205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/_o_m__k_a_r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_o_m__k_a_r_" height="30" width="40" /></a>
-<a href="https://leetcode.com/user4690Jf/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="omkar leet" height="30" width="40" /></a>
 </p>
 <br><hr>
 
